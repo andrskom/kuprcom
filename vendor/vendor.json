@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "g0jYqsZKE7rkfrRY5O3NZ5Yjs4g=",
+			"path": "github.com/fiam/gounidecode/unidecode",
+			"revision": "8deddbd03fec2c28969266e52f27b6fb22be1823",
+			"revisionTime": "2015-06-29T11:25:15Z"
+		}
+	],
+	"rootPath": "github.com/andrskom/kuprcom"
+}
